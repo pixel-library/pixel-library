@@ -1,11 +1,12 @@
 # 🙏 Namaste, I'm Rudra Sharma
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Developer coding animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Rudra%20Sharma&fontSize=55&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&stroke=ffffff&strokeWidth=1&desc=Frontend%20Developer%20%7C%20Full-Stack%20Explorer%20%7C%20AIML%20Student&descSize=16&descAlignY=72&animation=fadeIn" width="100%" alt="Rudra Sharma developer banner"/>
 </p>
 
 <p align="center">
-  <b>Frontend Developer • Full-Stack Explorer • AIML Student</b>
+  <img src="https://komarev.com/ghpvc/?username=pixel-library&label=PROFILE%20VIEWS&color=16a085&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pixel-library?label=Followers&style=flat-square&color=16a085" alt="GitHub followers"/>
 </p>
 
 ---
